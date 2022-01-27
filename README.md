@@ -1,15 +1,15 @@
 # Book recommendations
 
-## AI (Artificial Intelligence)
+## AI (Artificial Intelligence) :robot:
 
 ### Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms
 
-- Author: [Jeff Heaton](https://github.com/jeffheaton)
+- Author: [Jeff Heaton](https://github.com/jeffheaton) :octocat:
 - ISBN: 978-1493682225
 
 The basics of artificial intelligence and machine learning algorithms. All the books in the series are highly recommended but start with this. Recommended book to accompany this: Introduction to the Math of Neural Networks (ISBN: 978-1604390339).
 
-## Design
+## Design :teapot:
 
 ### The Design of Everyday Things
 
