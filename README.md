@@ -19,3 +19,12 @@ The basics of artificial intelligence and machine learning algorithms. All the b
 - ISBN: 978-0465050659
 
 Originally published with the title "The Psychology of Everyday Things" in 1988, this book is a classic in the field of interaction design and user experience. Used as a textbook for introduction courses to HCD (Human Centered Design). A good read even if you're not a designer. It will open your eyes to the designs you encounter every day (hence the name).
+
+## :headphones: Music
+
+### Music Habits - The Mental Game of Electronic Music Production
+
+- Author: Jason Timothy
+- ISBN: 978-1983207334
+
+An inspiring book about finishing songs and getting your creative flow going. You don't have to be an electronic music producer to read this. It applies to many genres, even beyond music production.
